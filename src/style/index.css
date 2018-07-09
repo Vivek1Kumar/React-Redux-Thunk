@@ -1,0 +1,28 @@
+body{
+	background-image: url(../assets/background.jpg);
+	height: 100%;
+	opacity: 2.0;
+	background-repeat: none;
+	background-size: cover;
+}
+.app{
+	text-align: center;
+	padding: 5%;
+}
+
+.right-button{
+	cursor: pointer;
+	float: right;
+	padding-right: 3%;
+}
+
+/*li{
+	border-style: solid;
+    border-color: grey;
+    border-width:1px;
+    width: 500px;
+    height: 45px;
+    border-radius: 3px;
+    text-align: center;
+    
+}*/
